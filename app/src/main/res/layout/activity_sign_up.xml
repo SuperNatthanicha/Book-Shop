@@ -19,7 +19,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="false"
-        android:textColor="#0b0a0a" />
+        android:textColor="#e50f0f" />
 
     <Button
         android:layout_width="match_parent"
@@ -51,7 +51,7 @@
                 android:id="@+id/textView2"
                 android:textSize="@dimen/h2"
                 android:layout_weight="1"
-                android:textColor="#0b0a0a" />
+                android:textColor="#e50f0f" />
 
             <EditText
                 android:layout_width="0dp"
@@ -73,7 +73,7 @@
                 android:textSize="@dimen/h2"
                 android:layout_weight="1"
                 android:text="Username :"
-                android:textColor="#0b0a0a" />
+                android:textColor="#e50f0f" />
 
             <EditText
                 android:layout_width="0dp"
@@ -95,7 +95,7 @@
                 android:id="@+id/textView4"
                 android:textSize="@dimen/h2"
                 android:layout_weight="1"
-                android:textColor="#0b0a0a" />
+                android:textColor="#e50f0f" />
 
             <EditText
                 android:layout_width="0dp"
